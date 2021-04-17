@@ -7,3 +7,6 @@ Documentation of the role-playing video game Stella Argentum.
 
 ## Members
 * Leandro Antunez
+
+## Repository of the source code
+https://github.com/LeandroAntunez/StellaArgentum
